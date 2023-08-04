@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&weight=600&size=50&pause=1000&color=FAFAFA&center=true&vCenter=true&width=940&lines=Hello+there%2C+I+am+Taymoor+Akbar!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&weight=600&size=50&pause=1000&color=FAFAFA&center=true&vCenter=true&width=940&lines=Hello+there%2C+I+am+Farzan+Hassan!" alt="Typing SVG" /></a>
 <!-- <img src="./assets/borderseperator.gif"> -->
 ## I'm a MERN Stack Developer 
 🔭 I’m currently learning Blockchain<br>☕ Interest - Movies, Sports and Music<br>⚡ Fun fact - I am lazy but smart
