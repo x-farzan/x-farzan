@@ -33,85 +33,87 @@ I have worked on **high-performance fintech, LMS, ELD, and blockchain applicatio
 ### 🚀 **Senior Software Engineer – EBizCharge** *(October 2023 – Present, Irvine, California)*
 > **EBizCharge** is a leading payment processing platform integrated with various eCommerce solutions.  
 
-- **Led backend development** for **BigCommerce payment integration**, improving merchant transaction efficiency.  
-- Designed and implemented **secure transaction handling**, reducing processing errors by **40%**.  
-- Developed **automated refund processing** and **order synchronization** between BigCommerce and EBizCharge.  
-- Optimized application performance by **implementing server-side rendering (SSR)** and reducing checkout load times.  
-- Integrated **webhooks for real-time transaction updates**, enhancing user experience.  
+- **Developed and deployed** an **optimized payment gateway** for BigCommerce.  
+- Built an automated system for **handling refunds and transaction synchronization**.  
+- Integrated **webhooks for real-time order updates**, enhancing merchant experience.  
+- Improved transaction processing efficiency by implementing **server-side rendering (SSR)**.  
 
 ---
 
 ### 💡 **Senior Software Engineer | Senior Node.js Developer – TekHQS** *(February 2023 – Present, Lahore)*
 > Developed large-scale applications, including **Learning Management Systems (LMS)** and **Electronic Logging Devices (ELD)**.
 
-- **Engineered back-end solutions** using **Nest.js, Node.js, PostgreSQL, and MongoDB**.  
-- Built a **feature-rich LMS**, handling **course management, assignments, and user administration**.  
-- Developed **an ELD system** to track driver hours and ensure compliance with FMCSA regulations.  
-- Designed a **microservices architecture**, reducing system downtime by **30%**.  
-- Integrated **AWS S3 and Cloudinary** for media storage and management.  
+- Built a **scalable LMS** supporting **content delivery, role-based access, and analytics**.  
+- Designed **a compliance-focused ELD system** for tracking driver activity and regulatory adherence.  
+- Implemented **cloud storage solutions (AWS S3, Cloudinary) to manage user-generated content**.  
 
 ---
 
 ### 💡 **Software Engineer | Node.js Developer – Developers Studio** *(July 2022 – February 2023, Lahore)*
-> Worked on **fintech applications** with high scalability and security requirements.
+> Worked on **fintech applications** requiring secure and scalable backend architectures.
 
-- Developed **secure APIs and backend services** supporting **500,000+ concurrent users**.  
-- Integrated **payment gateways and financial transaction APIs** to enhance fintech capabilities.  
-- Implemented **multi-factor authentication (MFA) and security measures** for financial transactions.  
+- Developed **highly secure API gateways** and payment processing solutions.  
+- Implemented **multi-factor authentication and fraud detection mechanisms**.  
 
 ---
 
 ### 💡 **Software Engineer | Node.js Developer – OptimusFox** *(July 2021 – July 2022, Lahore)*
-> Focused on **blockchain development** and **decentralized applications**.
+> Focused on **blockchain application development** and API security.
 
-- Developed **secure blockchain APIs** for NFT marketplaces and digital asset platforms.  
-- Built **RESTful APIs** and webhooks for **crypto transactions and wallet integrations**.  
+- Built **smart contract-based platforms** for NFT transactions and token generation.  
+- Integrated **IPFS for decentralized storage and blockchain API connections**.  
 
 ---
 
 ### 💡 **Associate Software Engineer – Convergence Business Systems** *(October 2020 – July 2021, Lahore)*
-> Worked on **REST API development** and **backend system optimizations**.
+> Developed REST APIs and optimized backend systems.
 
-- Developed **scalable REST APIs** using **Node.js, Express, and MongoDB**.  
-- Designed **role-based access control (RBAC)** for user authentication.  
+- Implemented **scalable data management solutions** for enterprise applications.  
+- Designed **custom authentication systems** with JWT-based security layers.  
 
 ---
 
 ## 🛠 Projects:
 
-### 🔹 **EBizCharge x BigCommerce** – **Payment Processing Platform** *(November 2023 – Present)*
-- **Built a payment integration** for **BigCommerce**, allowing merchants to process transactions securely.  
-- Developed **order synchronization and transaction tracking** features.  
+### 🔹 [**EBizCharge x BigCommerce**](https://www.bigcommerce.com/apps/ebizcharge-payments/) – **Seamless Payment Processing** *(November 2023 – Present)*
+- Developed a **BigCommerce-integrated payment gateway** for seamless merchant transactions.  
+- Ensured **secure data handling and automated transaction verification**.  
+- Reduced checkout processing time by **25% through performance optimization**.  
 
 ---
 
-### 🔹 **logELD** – **Electronic Logging Device (ELD) System** *(March 2023 – December 2023)*
-- **Built an ELD system** to help trucking companies track driver compliance.  
-- Integrated **GPS tracking, geofencing, and real-time alerts**.  
+### 🔹 [**logELD**](https://logeld.com/) – **Electronic Logging Device for Compliance** *(March 2023 – December 2023)*
+- Designed a **real-time tracking system** for monitoring **driver hours and vehicle movements**.  
+- Integrated **geolocation tracking, automated alerts, and FMCSA compliance reporting**.  
+- Built a **custom dashboard** for fleet managers to review driver performance metrics.  
 
 ---
 
-### 🔹 **Octilearn** – **Learning Management System (LMS)** *(March 2023 – November 2023)*
-- **Developed a course management platform**, supporting **live classes, quizzes, and certification**.  
-- Implemented **video streaming and content delivery optimization**.  
+### 🔹 [**Octilearn**](https://app.octilearn.com/auth) – **Advanced Learning Management System (LMS)** *(March 2023 – November 2023)*
+- Engineered a **feature-rich platform for educational institutions**.  
+- Supported **real-time quizzes, certifications, and progress tracking**.  
+- Integrated **video conferencing and on-demand content delivery**.  
 
 ---
 
-### 🔹 **BNPL (Buy Now Pay Later)** – **Fintech Payment Gateway** *(July 2022 – March 2023)*
-- **Developed a fintech platform** offering **installment-based payments for merchants**.  
-- Integrated **credit scoring algorithms** to determine user eligibility.  
+### 🔹 [**Noyz Audio NFT Marketplace**](https://github.com/x-farzan/Noyz-backend) – **Decentralized Music Platform** *(May 2022 – July 2022)*
+- Created a **music NFT platform**, allowing artists to monetize content through blockchain.  
+- Integrated **IPFS for secure decentralized storage** and smart contracts for **royalty distribution**.  
+- Implemented **Google and Spotify authentication** for artist identity verification.  
 
 ---
 
-### 🔹 **Noyz Audio NFT Marketplace** – **Blockchain-based Music NFT Platform** *(May 2022 – July 2022)*
-- **Developed an NFT-based marketplace**, enabling artists to upload and sell music as NFTs.  
-- Integrated **IPFS for decentralized NFT storage** and **smart contracts for royalty management**.  
+### 🔹 [**NoorNFT**](https://github.com/x-farzan/Noornft-backend) – **Islamic NFT Art Marketplace** *(March 2021 – April 2021)*
+- Developed a **decentralized NFT marketplace** focused on Islamic art.  
+- Integrated **smart contract-based auctions** for secure NFT transactions.  
+- Implemented **Google authentication for user verification** and **cloud storage for asset hosting**.  
 
 ---
 
-### 🔹 **Dinisium** – **Asset-Backed Token Generator** *(July 2021 – February 2022)*
-- **Developed a blockchain trading platform**, allowing asset-backed tokenization.  
-- Integrated **real-time price tracking with live market data**.  
+### 🔹 [**Dinisium**](https://dinisium.com/) – **Asset-Backed Token Trading Platform** *(July 2021 – February 2022)*
+- Developed a **trading platform for static and variable assets using blockchain**.  
+- Designed **live price tracking charts and asset-backed token issuance**.  
+- Built a **sophisticated KYC module for identity verification and security compliance**.  
 
 ---
 
