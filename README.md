@@ -1,8 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&weight=600&size=50&pause=1000&color=FAFAFA&center=true&vCenter=true&width=940&lines=Hello+there%2C+I+am+Farzan+Hassan!" alt="Typing SVG" /></a>
 
 ## 👨‍💻 About Me
-I’m a **Senior Software Engineer & MERN Stack Developer** with **4+ years** of experience in **backend development, cloud integration, and scalable architectures**.  
-I specialize in **Node.js, TypeScript, JavaScript, Express, Nest.js, MongoDB, PostgreSQL, and AWS**.  
+I’m a **Senior Software Engineer & MERN Stack Developer** with **4+ years** of experience in **backend development, cloud integration, and scalable architectures**. I specialize in **Node.js, TypeScript, JavaScript, Express, Nest.js, MongoDB, PostgreSQL, and AWS**.  
 
 I have worked on **high-performance fintech, LMS, ELD, and blockchain applications**, focusing on **security, performance optimization, and seamless integrations**.
 
@@ -40,7 +39,7 @@ I have worked on **high-performance fintech, LMS, ELD, and blockchain applicatio
 
 ---
 
-### 💡 **Senior Software Engineer | Senior Node.js Developer – TekHQS** *(February 2023 – Present, Lahore)*
+### 💡 **Senior Software Engineer – TekHQS** *(February 2023 – Present, Lahore)*
 > Developed large-scale applications, including **Learning Management Systems (LMS)** and **Electronic Logging Devices (ELD)**.
 
 - Built a **scalable LMS** supporting **content delivery, role-based access, and analytics**.  
@@ -49,7 +48,7 @@ I have worked on **high-performance fintech, LMS, ELD, and blockchain applicatio
 
 ---
 
-### 💡 **Software Engineer | Node.js Developer – Developers Studio** *(July 2022 – February 2023, Lahore)*
+### 💡 **Software Engineer – Developers Studio** *(July 2022 – February 2023, Lahore)*
 > Worked on **fintech applications** requiring secure and scalable backend architectures.
 
 - Developed **highly secure API gateways** and payment processing solutions.  
@@ -57,7 +56,7 @@ I have worked on **high-performance fintech, LMS, ELD, and blockchain applicatio
 
 ---
 
-### 💡 **Software Engineer | Node.js Developer – OptimusFox** *(July 2021 – July 2022, Lahore)*
+### 💡 **Software Engineer – OptimusFox** *(July 2021 – July 2022, Lahore)*
 > Focused on **blockchain application development** and API security.
 
 - Built **smart contract-based platforms** for NFT transactions and token generation.  
