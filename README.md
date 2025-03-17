@@ -28,10 +28,6 @@ I’m a **MERN Stack Developer** passionate about building scalable and high-per
 💡 **[Previous Job Title]** at **[Company]** *(Start Date – End Date)*  
 - Key contributions and responsibilities  
 
-## ✍️ Blog & Articles:
-📝 [Article 1](#) – Short description  
-📝 [Article 2](#) – Short description  
-
 ## 📫 Contact:
 📧 **Email:** [Your Email]  
 🌍 **Portfolio:** [Your Website]  
